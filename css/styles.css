@@ -91,6 +91,9 @@ h1, h2, h3 {
 	max-height: 250px;
 	display: block;
 	object-fit: cover;
+	border-radius: 15px;
+	  border: 2px solid whitesmoke;
+  border-radius: 5px;
 }
 
 .project-img {
