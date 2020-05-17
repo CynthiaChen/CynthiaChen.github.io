@@ -93,11 +93,11 @@ h1, h2, h3 {
 	object-fit: cover;
 	border-radius: 15px;
 	  border: 2px solid whitesmoke;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .project-img {
-	width: 100%;
+	width: 80%;
 	display: block;
 	object-fit: cover;
 }
